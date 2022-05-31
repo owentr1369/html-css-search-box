@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: linear-gradient(to right, #4daf54, #3d8880);
+}
+.search-box__button {
+  font-size: 15px;
+}
